@@ -1,25 +1,34 @@
-
 body {
   font-family: Arial, sans-serif;
   background: url('echopirate.jpg') no-repeat center center fixed;
   background-size: cover;
-  filter: grayscale(100%);
+  filter: grayscale(100%); /* makes background monochrome */
   color: white;
   text-align: center;
   margin: 0;
   padding: 0;
 }
+
+/* keep the logo colorful */
+header img {
+  filter: none;
+}
+
 header {
   background: #333;
   color: white;
   padding: 20px;
+  text-align: center;
 }
+
 h1 {
   font-size: 2.5em;
 }
+
 audio {
   margin: 20px;
 }
+
 footer {
   background: #222;
   color: #ccc;
