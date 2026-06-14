@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ffecd2, #fcb69f);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #333;
+  color: white;
+  padding: 20px;
+}
+h1 {
+  font-size: 2.5em;
+}
+audio {
+  margin: 20px;
+}
+footer {
+  background: #222;
+  color: #ccc;
+  padding: 10px;
+}
