@@ -9,14 +9,6 @@ body {
   margin: 0;
   padding: 0;
 }
-body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #ffecd2, #fcb69f);
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-
 header {
   background: #333;
   color: white;
